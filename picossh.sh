@@ -1,5 +1,5 @@
 
 #!/bin/bash
 
-ssh Anonimbus@2019shell1.picoctf.com
+ssh username@2019shell1.picoctf.com
 
